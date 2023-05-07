@@ -1,0 +1,330 @@
+[
+    {
+      "chef_id": "1",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": [
+            "chicken breast",
+            "dried red chili peppers",
+            "Sichuan peppercorns",
+            "garlic",
+            "ginger"
+          ],
+          "cooking_method": "1. Marinate chicken with cornstarch, soy sauce, and Shaoxing wine. 2. Fry the dried red chili peppers and Sichuan peppercorns until fragrant. 3. Add chicken and stir-fry until cooked. 4. Add garlic, ginger, scallions, and roasted peanuts. 5. Serve with rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Mapo Tofu",
+          "ingredients": [
+            "soft tofu",
+            "ground pork",
+            "doubanjiang",
+            "Sichuan peppercorns",
+            "garlic"
+          ],
+          "cooking_method": "1. Fry garlic and Sichuan peppercorns until fragrant. 2. Add ground pork and fry until cooked. 3. Add doubanjiang and stir-fry until fragrant. 4. Add water and bring to a boil. 5. Add soft tofu and simmer until heated through. 6. Serve with rice.",
+          "rating": 4.7
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "chicken broth",
+            "tofu",
+            "mushrooms",
+            "bamboo shoots",
+            "egg"
+          ],
+          "cooking_method": "1. Bring chicken broth to a boil. 2. Add tofu, mushrooms, and bamboo shoots. 3. Season with soy sauce, rice vinegar, and chili oil. 4. Beat an egg and drizzle it into the soup while stirring. 5. Serve hot.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "chef_id": "2",
+      "recipes": [
+        {
+          "name": "Spaghetti Bolognese",
+          "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "canned tomatoes",
+            "tomato paste"
+          ],
+          "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, tomato paste, and seasonings. 5. Simmer for 30 minutes. 6. Serve over spaghetti.",
+          "rating": 4.6
+        },
+        {
+          "name": "Chicken Alfredo",
+          "ingredients": [
+            "chicken breast",
+            "heavy cream",
+            "butter",
+            "parmesan cheese",
+            "garlic"
+          ],
+          "cooking_method": "1. Cook pasta according to package instructions. 2. Cut chicken into bite-sized pieces and cook in a pan. 3. Add butter and garlic and cook until fragrant. 4. Add heavy cream and parmesan cheese and simmer until thickened. 5. Serve over pasta.",
+          "rating": 4.8
+        },
+        {
+          "name": "Grilled Salmon",
+          "ingredients": [
+            "salmon fillets",
+            "olive oil",
+            "lemon",
+            "salt",
+            "pepper"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon fillets with olive oil and season with salt and pepper. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. Squeeze fresh lemon juice over salmon before serving.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+        "chef_id": "3",
+        "recipes": [
+          {
+            "name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "dried red chili peppers",
+              "Sichuan peppercorns",
+              "garlic",
+              "ginger"
+            ],
+            "cooking_method": "1. Marinate chicken with cornstarch, soy sauce, and Shaoxing wine. 2. Fry the dried red chili peppers and Sichuan peppercorns until fragrant. 3. Add chicken and stir-fry until cooked. 4. Add garlic, ginger, scallions, and roasted peanuts. 5. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "name": "Mapo Tofu",
+            "ingredients": [
+              "soft tofu",
+              "ground pork",
+              "doubanjiang",
+              "Sichuan peppercorns",
+              "garlic"
+            ],
+            "cooking_method": "1. Fry garlic and Sichuan peppercorns until fragrant. 2. Add ground pork and fry until cooked. 3. Add doubanjiang and stir-fry until fragrant. 4. Add water and bring to a boil. 5. Add soft tofu and simmer until heated through. 6. Serve with rice.",
+            "rating": 4.7
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "egg"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil. 2. Add tofu, mushrooms, and bamboo shoots. 3. Season with soy sauce, rice vinegar, and chili oil. 4. Beat an egg and drizzle it into the soup while stirring. 5. Serve hot.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "chef_id": "4",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "ground beef",
+              "onion",
+              "garlic",
+              "canned tomatoes",
+              "tomato paste"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, tomato paste, and seasonings. 5. Simmer for 30 minutes. 6. Serve over spaghetti.",
+            "rating": 4.6
+          },
+          {
+            "name": "Chicken Alfredo",
+            "ingredients": [
+              "chicken breast",
+              "heavy cream",
+              "butter",
+              "parmesan cheese",
+              "garlic"
+            ],
+            "cooking_method": "1. Cook pasta according to package instructions. 2. Cut chicken into bite-sized pieces and cook in a pan. 3. Add butter and garlic and cook until fragrant. 4. Add heavy cream and parmesan cheese and simmer until thickened. 5. Serve over pasta.",
+            "rating": 4.8
+          },
+          {
+            "name": "Grilled Salmon",
+            "ingredients": [
+              "salmon fillets",
+              "olive oil",
+              "lemon",
+              "salt",
+              "pepper"
+            ],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon fillets with olive oil and season with salt and pepper. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. Squeeze fresh lemon juice over salmon before serving.",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "chef_id": "5",
+        "recipes": [
+          {
+            "name": "Kung Pao Chicken",
+            "ingredients": [
+              "chicken breast",
+              "dried red chili peppers",
+              "Sichuan peppercorns",
+              "garlic",
+              "ginger"
+            ],
+            "cooking_method": "1. Marinate chicken with cornstarch, soy sauce, and Shaoxing wine. 2. Fry the dried red chili peppers and Sichuan peppercorns until fragrant. 3. Add chicken and stir-fry until cooked. 4. Add garlic, ginger, scallions, and roasted peanuts. 5. Serve with rice.",
+            "rating": 4.5
+          },
+          {
+            "name": "Mapo Tofu",
+            "ingredients": [
+              "soft tofu",
+              "ground pork",
+              "doubanjiang",
+              "Sichuan peppercorns",
+              "garlic"
+            ],
+            "cooking_method": "1. Fry garlic and Sichuan peppercorns until fragrant. 2. Add ground pork and fry until cooked. 3. Add doubanjiang and stir-fry until fragrant. 4. Add water and bring to a boil. 5. Add soft tofu and simmer until heated through. 6. Serve with rice.",
+            "rating": 4.7
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "ingredients": [
+              "chicken broth",
+              "tofu",
+              "mushrooms",
+              "bamboo shoots",
+              "egg"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil. 2. Add tofu, mushrooms, and bamboo shoots. 3. Season with soy sauce, rice vinegar, and chili oil. 4. Beat an egg and drizzle it into the soup while stirring. 5. Serve hot.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "chef_id": "6",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "ground beef",
+              "onion",
+              "garlic",
+              "canned tomatoes",
+              "tomato paste"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, tomato paste, and seasonings. 5. Simmer for 30 minutes. 6. Serve over spaghetti.",
+            "rating": 4.6
+          },
+          {
+            "name": "Chicken Alfredo",
+            "ingredients": [
+              "chicken breast",
+              "heavy cream",
+              "butter",
+              "parmesan cheese",
+              "garlic"
+            ],
+            "cooking_method": "1. Cook pasta according to package instructions. 2. Cut chicken into bite-sized pieces and cook in a pan. 3. Add butter and garlic and cook until fragrant. 4. Add heavy cream and parmesan cheese and simmer until thickened. 5. Serve over pasta.",
+            "rating": 4.8
+          },
+          {
+            "name": "Grilled Salmon",
+            "ingredients": [
+              "salmon fillets",
+              "olive oil",
+              "lemon",
+              "salt",
+              "pepper"
+            ],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon fillets with olive oil and season with salt and pepper. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. Squeeze fresh lemon juice over salmon before serving.",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+          "chef_id": "7",
+          "recipes": [
+            {
+              "name": "Kung Pao Chicken",
+              "ingredients": [
+                "chicken breast",
+                "dried red chili peppers",
+                "Sichuan peppercorns",
+                "garlic",
+                "ginger"
+              ],
+              "cooking_method": "1. Marinate chicken with cornstarch, soy sauce, and Shaoxing wine. 2. Fry the dried red chili peppers and Sichuan peppercorns until fragrant. 3. Add chicken and stir-fry until cooked. 4. Add garlic, ginger, scallions, and roasted peanuts. 5. Serve with rice.",
+              "rating": 4.5
+            },
+            {
+              "name": "Mapo Tofu",
+              "ingredients": [
+                "soft tofu",
+                "ground pork",
+                "doubanjiang",
+                "Sichuan peppercorns",
+                "garlic"
+              ],
+              "cooking_method": "1. Fry garlic and Sichuan peppercorns until fragrant. 2. Add ground pork and fry until cooked. 3. Add doubanjiang and stir-fry until fragrant. 4. Add water and bring to a boil. 5. Add soft tofu and simmer until heated through. 6. Serve with rice.",
+              "rating": 4.7
+            },
+            {
+              "name": "Hot and Sour Soup",
+              "ingredients": [
+                "chicken broth",
+                "tofu",
+                "mushrooms",
+                "bamboo shoots",
+                "egg"
+              ],
+              "cooking_method": "1. Bring chicken broth to a boil. 2. Add tofu, mushrooms, and bamboo shoots. 3. Season with soy sauce, rice vinegar, and chili oil. 4. Beat an egg and drizzle it into the soup while stirring. 5. Serve hot.",
+              "rating": 4.2
+            }
+          ]
+        },
+        {
+          "chef_id": "8",
+          "recipes": [
+            {
+              "name": "Spaghetti Bolognese",
+              "ingredients": [
+                "ground beef",
+                "onion",
+                "garlic",
+                "canned tomatoes",
+                "tomato paste"
+              ],
+              "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a pan. 3. Add onion and garlic and cook until softened. 4. Add canned tomatoes, tomato paste, and seasonings. 5. Simmer for 30 minutes. 6. Serve over spaghetti.",
+              "rating": 4.6
+            },
+            {
+              "name": "Chicken Alfredo",
+              "ingredients": [
+                "chicken breast",
+                "heavy cream",
+                "butter",
+                "parmesan cheese",
+                "garlic"
+              ],
+              "cooking_method": "1. Cook pasta according to package instructions. 2. Cut chicken into bite-sized pieces and cook in a pan. 3. Add butter and garlic and cook until fragrant. 4. Add heavy cream and parmesan cheese and simmer until thickened. 5. Serve over pasta.",
+              "rating": 4.8
+            },
+            {
+              "name": "Grilled Salmon",
+              "ingredients": [
+                "salmon fillets",
+                "olive oil",
+                "lemon",
+                "salt",
+                "pepper"
+              ],
+              "cooking_method": "1. Preheat grill to medium-high heat. 2. Brush salmon fillets with olive oil and season with salt and pepper. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. Squeeze fresh lemon juice over salmon before serving.",
+              "rating": 4.6
+            }
+          ]
+        }
+  ]

@@ -1,0 +1,70 @@
+[
+    {
+        "id": "0",
+        "name": "All Chef"
+    },
+    {
+        "id": "1",
+        "name": "Bangladeshi"
+    },
+    {
+        "id": "2",
+        "name": "Chinese"
+    },
+    {
+        "id": "3",
+        "name": "Mediterranean"
+    },
+    {
+        "id": "4",
+        "name": "American"
+    },
+    {
+        "id": "5",
+        "name": "Mexican"
+    },
+    {
+        "id": "6",
+        "name": "Italian"
+    },
+    {
+        "id": "7",
+        "name": "French"
+    },
+    {
+        "id": "8",
+        "name": "African"
+    },
+    {
+        "id": "9",
+        "name": "Japanese"
+    },
+    {
+        "id": "10",
+        "name": "Thai"
+    },
+    {
+        "id": "11",
+        "name": "Afgan"
+    },
+    {
+        "id": "12",
+        "name": "Korean"
+    },
+    {
+        "id": "13",
+        "name": "Australian"
+    },
+    {
+        "id": "14",
+        "name": "Nepalese"
+    },
+    {
+        "id": "15",
+        "name": "Indian"
+    },
+    {
+        "id": "16",
+        "name": "Srilankan"
+    }
+]

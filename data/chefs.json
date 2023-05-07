@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "cuisine": "1",
+    "picture": "https://images.dailyhive.com/vancitybuzz/uploads/2015/02/chef.jpg",
+    "name": "John Doe",
+    "bio": "John is an experienced chef with over 10 years of experience in cooking Chinese cuisine. He loves experimenting with new ingredients and flavors and has created many popular dishes that his customers love.",
+    "experience": 10,
+    "recipes": 20,
+    "likes": 500
+  },
+  {
+    "id": "2",
+    "cuisine": "2",
+    "picture": "https://assets3.thrillist.com/v1/image/2421356/size/tmg-article_default_mobile;jpeg_quality=20.jpg",
+    "name": "Jane Smith",
+    "bio": "Jane is a talented chef with expertise in Italian cuisine. She has worked in some of the best Italian restaurants in the world and has won several awards for her culinary skills. Her pasta dishes are to die for!",
+    "experience": 15,
+    "recipes": 25,
+    "likes": 800
+  },
+  {
+    "id": "3",
+    "cuisine": "3",
+    "picture": "https://www.arizonafoothillsmagazine.com/images/stories/aug12/afm0812-top-chefs-Kevin-Binkley.jpg",
+    "name": "Sara Lee",
+    "bio": "Sara is a master chef who specializes in Japanese cuisine. She has trained in Japan and has worked in some of the top Japanese restaurants around the world. Her sushi and sashimi dishes are a work of art.",
+    "experience": 20,
+    "recipes": 30,
+    "likes": 1200
+  },
+  {
+    "id": "4",
+    "cuisine": "4",
+    "picture": "https://assets3.thrillist.com/v1/image/2421336/size/tmg-article_default_mobile.jpg",
+    "name": "Mohammed Ali",
+    "bio": "Mohammed is a renowned chef from India who has won several awards for his delicious Indian dishes. He has been in the industry for over 25 years and has cooked for some of the most important people in the world.",
+    "experience": 25,
+    "recipes": 35,
+    "likes": 1500
+  },
+  {
+    "id": "5",
+    "cuisine": "5",
+    "picture": "https://live.staticflickr.com/7031/6756306951_5b3ce82a1d.jpg",
+    "name": "Giovanni Rossi",
+    "bio": "Giovanni is an expert in Mediterranean cuisine. He grew up in Italy and has traveled extensively throughout the Mediterranean to learn about the different flavors and ingredients used in the region. His seafood dishes are particularly popular.",
+    "experience": 15,
+    "recipes": 40,
+    "likes": 1000
+  },
+  {
+    "id": "6",
+    "cuisine": "6",
+    "picture": "https://www.pourcel-chefs-blog.com/blog1/wp-content/uploads/2015/08/pc_history_img_06.jpg",
+    "name": "Chen Wei",
+    "bio": "Chen is a talented chef who specializes in Sichuan cuisine. She has worked in some of the best restaurants in China and has won several awards for her spicy dishes. Her mapo tofu is a must-try!",
+    "experience": 10,
+    "recipes": 15,
+    "likes": 400
+  },
+  {
+    "id": "7",
+    "cuisine": "7",
+    "picture": "https://i.pinimg.com/474x/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734--black-heads-chefs.jpg",
+    "name": "Tanya Kim",
+    "bio": "Tanya is a skilled chef who has expertise in Korean cuisine. She has worked in Korea and has learned about the different flavors and techniques used in Korean cooking. Her kimchi is always a hit with her customers.",
+    "experience": 5,
+    "recipes": 10,
+    "likes": 200
+  },
+  {
+    "id": "8",
+    "cuisine": "8",
+    "picture": "https://assets3.thrillist.com/v1/image/1463553/size/tmg-article_default_mobile;jpeg_quality=20.jpg",
+    "name": "Sophia Brown",
+    "bio": "Sophia is a highly experienced chef from Italy with a passion for creating authentic Italian dishes. She has worked in top-rated restaurants in Italy and around the world, honing her skills and perfecting her recipes. Sophia's dishes are known for their delicious flavors and beautiful presentation.",
+    "experience": 15,
+    "recipes": 50,
+    "likes": 5000
+  },
+  {
+    "id": "9",
+    "cuisine": "1",
+    "picture": "https://www.teachingenglish.org.uk/sites/teacheng/files/images/RS877_78724640-hig.jpg",
+    "name": "John Doe",
+    "bio": "John is an experienced chef with over 10 years of experience in cooking Chinese cuisine. He loves experimenting with new ingredients and flavors and has created many popular dishes that his customers love.",
+    "experience": 10,
+    "recipes": 20,
+    "likes": 500
+  },
+  {
+    "id": "10",
+    "cuisine": "2",
+    "picture": "https://assets3.thrillist.com/v1/image/2421356/size/tmg-article_default_mobile;jpeg_quality=20.jpg",
+    "name": "Jane Smith",
+    "bio": "Jane is a talented chef with expertise in Italian cuisine. She has worked in some of the best Italian restaurants in the world and has won several awards for her culinary skills. Her pasta dishes are to die for!",
+    "experience": 15,
+    "recipes": 25,
+    "likes": 800
+  },
+  {
+    "id": "11",
+    "cuisine": "3",
+    "picture": "https://www.arizonafoothillsmagazine.com/images/stories/aug12/afm0812-top-chefs-Kevin-Binkley.jpg",
+    "name": "Sara Lee",
+    "bio": "Sara is a master chef who specializes in Japanese cuisine. She has trained in Japan and has worked in some of the top Japanese restaurants around the world. Her sushi and sashimi dishes are a work of art.",
+    "experience": 20,
+    "recipes": 30,
+    "likes": 1200
+  },
+  {
+    "id": "12",
+    "cuisine": "4",
+    "picture": "https://assets3.thrillist.com/v1/image/2421336/size/tmg-article_default_mobile.jpg",
+    "name": "Mohammed Ali",
+    "bio": "Mohammed is a renowned chef from India who has won several awards for his delicious Indian dishes. He has been in the industry for over 25 years and has cooked for some of the most important people in the world.",
+    "experience": 25,
+    "recipes": 35,
+    "likes": 1500
+  },
+  {
+    "id": "13",
+    "cuisine": "5",
+    "picture": "https://live.staticflickr.com/7031/6756306951_5b3ce82a1d.jpg",
+    "name": "Giovanni Rossi",
+    "bio": "Giovanni is an expert in Mediterranean cuisine. He grew up in Italy and has traveled extensively throughout the Mediterranean to learn about the different flavors and ingredients used in the region. His seafood dishes are particularly popular.",
+    "experience": 15,
+    "recipes": 40,
+    "likes": 1000
+  },
+  {
+    "id": "14",
+    "cuisine": "6",
+    "picture": "https://www.pourcel-chefs-blog.com/blog1/wp-content/uploads/2015/08/pc_history_img_06.jpg",
+    "name": "Chen Wei",
+    "bio": "Chen is a talented chef who specializes in Sichuan cuisine. She has worked in some of the best restaurants in China and has won several awards for her spicy dishes. Her mapo tofu is a must-try!",
+    "experience": 10,
+    "recipes": 15,
+    "likes": 400
+  },
+  {
+    "id": "15",
+    "cuisine": "7",
+    "picture": "https://i.pinimg.com/474x/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734--black-heads-chefs.jpg",
+    "name": "Tanya Kim",
+    "bio": "Tanya is a skilled chef who has expertise in Korean cuisine. She has worked in Korea and has learned about the different flavors and techniques used in Korean cooking. Her kimchi is always a hit with her customers.",
+    "experience": 5,
+    "recipes": 10,
+    "likes": 200
+  },
+  {
+    "id": "16",
+    "cuisine": "8",
+    "picture": "https://st3.depositphotos.com/2234518/15848/i/450/depositphotos_158484516-stock-photo-female-chef-in-kitchen.jpg",
+    "name": "Sophia Brown",
+    "bio": "Sophia is a highly experienced chef from Italy with a passion for creating authentic Italian dishes. She has worked in top-rated restaurants in Italy and around the world, honing her skills and perfecting her recipes. Sophia's dishes are known for their delicious flavors and beautiful presentation.",
+    "experience": 15,
+    "recipes": 50,
+    "likes": 5000
+  },
+  {
+    "id": "17",
+    "cuisine": "1",
+    "picture": "https://www.teachingenglish.org.uk/sites/teacheng/files/images/RS877_78724640-hig.jpg",
+    "name": "John Doe",
+    "bio": "John is an experienced chef with over 10 years of experience in cooking Chinese cuisine. He loves experimenting with new ingredients and flavors and has created many popular dishes that his customers love.",
+    "experience": 10,
+    "recipes": 20,
+    "likes": 500
+  },
+  {
+    "id": "18",
+    "cuisine": "2",
+    "picture": "https://assets3.thrillist.com/v1/image/2421356/size/tmg-article_default_mobile;jpeg_quality=20.jpg",
+    "name": "Jane Smith",
+    "bio": "Jane is a talented chef with expertise in Italian cuisine. She has worked in some of the best Italian restaurants in the world and has won several awards for her culinary skills. Her pasta dishes are to die for!",
+    "experience": 15,
+    "recipes": 25,
+    "likes": 800
+  },
+  {
+    "id": "19",
+    "cuisine": "3",
+    "picture": "https://www.arizonafoothillsmagazine.com/images/stories/aug12/afm0812-top-chefs-Kevin-Binkley.jpg",
+    "name": "Sara Lee",
+    "bio": "Sara is a master chef who specializes in Japanese cuisine. She has trained in Japan and has worked in some of the top Japanese restaurants around the world. Her sushi and sashimi dishes are a work of art.",
+    "experience": 20,
+    "recipes": 30,
+    "likes": 1200
+  },
+  {
+    "id": "20",
+    "cuisine": "4",
+    "picture": "https://assets3.thrillist.com/v1/image/2421336/size/tmg-article_default_mobile.jpg",
+    "name": "Mohammed Ali",
+    "bio": "Mohammed is a renowned chef from India who has won several awards for his delicious Indian dishes. He has been in the industry for over 25 years and has cooked for some of the most important people in the world.",
+    "experience": 25,
+    "recipes": 35,
+    "likes": 1500
+  },
+  {
+    "id": "21",
+    "cuisine": "5",
+    "picture": "https://live.staticflickr.com/7031/6756306951_5b3ce82a1d.jpg",
+    "name": "Giovanni Rossi",
+    "bio": "Giovanni is an expert in Mediterranean cuisine. He grew up in Italy and has traveled extensively throughout the Mediterranean to learn about the different flavors and ingredients used in the region. His seafood dishes are particularly popular.",
+    "experience": 15,
+    "recipes": 40,
+    "likes": 1000
+  },
+  {
+    "id": "22",
+    "cuisine": "6",
+    "picture": "https://www.pourcel-chefs-blog.com/blog1/wp-content/uploads/2015/08/pc_history_img_06.jpg",
+    "name": "Chen Wei",
+    "bio": "Chen is a talented chef who specializes in Sichuan cuisine. She has worked in some of the best restaurants in China and has won several awards for her spicy dishes. Her mapo tofu is a must-try!",
+    "experience": 10,
+    "recipes": 15,
+    "likes": 400
+  },
+  {
+    "id": "23",
+    "cuisine": "7",
+    "picture": "https://i.pinimg.com/474x/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734--black-heads-chefs.jpg",
+    "name": "Tanya Kim",
+    "bio": "Tanya is a skilled chef who has expertise in Korean cuisine. She has worked in Korea and has learned about the different flavors and techniques used in Korean cooking. Her kimchi is always a hit with her customers.",
+    "experience": 5,
+    "recipes": 10,
+    "likes": 200
+  },
+  {
+    "id": "24",
+    "cuisine": "8",
+    "picture": "https://image.shutterstock.com/image-photo/handsome-cook-chefs-uniform-smiling-260nw-1240744174.jpg",
+    "name": "Sophia Brown",
+    "bio": "Sophia is a highly experienced chef from Italy with a passion for creating authentic Italian dishes. She has worked in top-rated restaurants in Italy and around the world, honing her skills and perfecting her recipes. Sophia's dishes are known for their delicious flavors and beautiful presentation.",
+    "experience": 15,
+    "recipes": 50,
+    "likes": 5000
+  },
+  {
+    "id": "25",
+    "cuisine": "1",
+    "picture": "https://www.teachingenglish.org.uk/sites/teacheng/files/images/RS877_78724640-hig.jpg",
+    "name": "John Doe",
+    "bio": "John is an experienced chef with over 10 years of experience in cooking Chinese cuisine. He loves experimenting with new ingredients and flavors and has created many popular dishes that his customers love.",
+    "experience": 10,
+    "recipes": 20,
+    "likes": 500
+  },
+  {
+    "id": "26",
+    "cuisine": "2",
+    "picture": "https://assets3.thrillist.com/v1/image/2421356/size/tmg-article_default_mobile;jpeg_quality=20.jpg",
+    "name": "Jane Smith",
+    "bio": "Jane is a talented chef with expertise in Italian cuisine. She has worked in some of the best Italian restaurants in the world and has won several awards for her culinary skills. Her pasta dishes are to die for!",
+    "experience": 15,
+    "recipes": 25,
+    "likes": 800
+  },
+  {
+    "id": "27",
+    "cuisine": "3",
+    "picture": "https://www.arizonafoothillsmagazine.com/images/stories/aug12/afm0812-top-chefs-Kevin-Binkley.jpg",
+    "name": "Sara Lee",
+    "bio": "Sara is a master chef who specializes in Japanese cuisine. She has trained in Japan and has worked in some of the top Japanese restaurants around the world. Her sushi and sashimi dishes are a work of art.",
+    "experience": 20,
+    "recipes": 30,
+    "likes": 1200
+  },
+  {
+    "id": "28",
+    "cuisine": "4",
+    "picture": "https://assets3.thrillist.com/v1/image/2421336/size/tmg-article_default_mobile.jpg",
+    "name": "Mohammed Ali",
+    "bio": "Mohammed is a renowned chef from India who has won several awards for his delicious Indian dishes. He has been in the industry for over 25 years and has cooked for some of the most important people in the world.",
+    "experience": 25,
+    "recipes": 35,
+    "likes": 1500
+  },
+  {
+    "id": "29",
+    "cuisine": "5",
+    "picture": "https://live.staticflickr.com/7031/6756306951_5b3ce82a1d.jpg",
+    "name": "Giovanni Rossi",
+    "bio": "Giovanni is an expert in Mediterranean cuisine. He grew up in Italy and has traveled extensively throughout the Mediterranean to learn about the different flavors and ingredients used in the region. His seafood dishes are particularly popular.",
+    "experience": 15,
+    "recipes": 40,
+    "likes": 1000
+  },
+  {
+    "id": "30",
+    "cuisine": "6",
+    "picture": "https://www.pourcel-chefs-blog.com/blog1/wp-content/uploads/2015/08/pc_history_img_06.jpg",
+    "name": "Chen Wei",
+    "bio": "Chen is a talented chef who specializes in Sichuan cuisine. She has worked in some of the best restaurants in China and has won several awards for her spicy dishes. Her mapo tofu is a must-try!",
+    "experience": 10,
+    "recipes": 15,
+    "likes": 400
+  },
+  {
+    "id": "31",
+    "cuisine": "7",
+    "picture": "https://i.pinimg.com/474x/2d/9c/d2/2d9cd26c1eaf2924ebd18dacf6944734--black-heads-chefs.jpg",
+    "name": "Tanya Kim",
+    "bio": "Tanya is a skilled chef who has expertise in Korean cuisine. She has worked in Korea and has learned about the different flavors and techniques used in Korean cooking. Her kimchi is always a hit with her customers.",
+    "experience": 5,
+    "recipes": 10,
+    "likes": 200
+  },
+  {
+    "id": "32",
+    "cuisine": "8",
+    "picture": "https://758eac853a5ae378832e-aa38fb5bda3ad21d7d4949c57f6f0e56.ssl.cf6.rackcdn.com/posts/cover_images/000/000/024/original/How_to_hire_an_Executive_Chef_.jpg",
+    "name": "Sophia Brown",
+    "bio": "Sophia is a highly experienced chef from Italy with a passion for creating authentic Italian dishes. She has worked in top-rated restaurants in Italy and around the world, honing her skills and perfecting her recipes. Sophia's dishes are known for their delicious flavors and beautiful presentation.",
+    "experience": 15,
+    "recipes": 50,
+    "likes": 5000
+  }
+]
